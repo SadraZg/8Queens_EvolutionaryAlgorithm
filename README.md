@@ -1,6 +1,6 @@
 # 8 QUEENS
 
-This is an assignment for one of my university courses <Computational Intelligence>.
+This is an assignment for one of my university courses "Computational Intelligence".
 
 Implemented with Analytical and Backtracking algorithms and also my own implementation of Genetic algorithm
 
