@@ -11,7 +11,7 @@ Implemented with Analytical and Backtracking algorithms and also my own implemen
     it would do the same for other files but since it prints the hole profile line-by-line, I
     didn't use it in them.
 
-    * NOTE that it has been tested in each file and results are as following:
+    NOTE that it has been tested in each file and results are as following:
 
     -   Depending on input size(number of queens) the time complexity differs.
     -   on the other hand, there isn't a big difference in memory usage.
