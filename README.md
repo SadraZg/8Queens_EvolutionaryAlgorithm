@@ -1,5 +1,7 @@
 # 8 QUEENS
 
+This is an assignment for one of my university courses <Computational Intelligence>.
+
 Implemented with Analytical and Backtracking algorithms and also my own implementation of Genetic algorithm
 
 -   By executing each file, the total time of execution will be written in a .txt file.
